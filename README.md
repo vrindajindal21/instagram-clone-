@@ -8,6 +8,12 @@ This repository contains a high-fidelity, "Pixel-Perfect" replication of the Ins
 | :---: | :---: | :---: |
 | ![Home Feed](assets/screenshots/home_feed.png) | ![Saved Notification](assets/screenshots/saved_notification.png) | ![Profile Screen](assets/screenshots/profile_screen.png) |
 
+## 📺 Demo Video
+
+https://github.com/vrindajindal21/instagram-clone-/blob/main/assets/videos/demo.mp4?raw=true
+
+*If the video does not play, you can find it directly in the [assets/videos](assets/videos/) folder.*
+
 ## 🚀 Key Features & Implementation
 
 ### 📱 The "Mirror Test" (UI Fidelity)
