@@ -12,7 +12,10 @@ This repository contains a high-fidelity, "Pixel-Perfect" replication of the Ins
 
 https://github.com/vrindajindal21/instagram-clone-/blob/main/assets/videos/demo.mp4?raw=true
 
-*If the video does not play, you can find it directly in the [assets/videos](assets/videos/) folder.*
+> [!TIP]
+> **High Quality Backup:** If the GitHub player is slow or fuzzy, you can watch the high-resolution original on [Google Drive here](https://drive.google.com/file/d/1e5RKdc3ry2LM4rMK0R3XYzk8ptpUqUjP/view?usp=sharing).
+
+*The video demonstrates the Shimmer loading state, Smooth infinite scrolling, Pinch-to-Zoom interaction, and Toggle interactions (Like/Save).*
 
 ## 🚀 Key Features & Implementation
 
